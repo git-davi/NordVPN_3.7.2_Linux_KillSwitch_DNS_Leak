@@ -24,9 +24,10 @@ DNS: disabled
 ```
   
 First thing I 've noticed was that on Kali the killswitch won't working after every restart.  
-I have to connect one time then everything will work as expected.  
+I have to connect one time before everything will begin to work as expected.  
   
-Now to the dns leak...  
+**Now to the dns leak...**  
+  
 This was a dig output when connected to the VPN :  
 ```shell
 ; <<>> DiG 9.16.2-Debian <<>> google.com
