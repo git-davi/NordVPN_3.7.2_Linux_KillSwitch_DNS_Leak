@@ -1,5 +1,5 @@
-# NordVPN_3.7.2_KillSwitch_DNS_Leak_Linux
-
+# NordVPN_3.7.2_Linux_KillSwitch_DNS_Leak  
+  
 ### tl;dr
 NordVPN client software in Linux isn't trustworthly.  
 The killswitch feature suffers **DNS leaking**.  
